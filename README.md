@@ -1,4 +1,4 @@
-# ParticulasGravitacionais3D
+# Particulas Gravitacionais 3D
 
 No arquivo .rar você encontra a pasta completa, com executável e .dll necessárias. 
 Se acontecer algum problema na execução(tela branca ou não abrir), provavelmente é a resolução da tela. 
